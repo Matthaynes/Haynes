@@ -1,0 +1,8 @@
+#post{
+display: flex;
+text-align: center;
+}
+ /* Custom CSS */
+ .navbar-collapse {
+    justify-content: end; /* Align navbar links to the right */
+  }
